@@ -1,5 +1,17 @@
-# FiixLineView_Public
-Small Dotnet 9 app to display Fiix Analytics dahboards on full screens or tv's.  This app manages and persists logins to Fiix to ensure continuous operation. 
+# Fiix Line View
+## Small Dotnet 9 app to display Fiix Analytics dahboards on full screens or tv's.  This app manages and persists logins to Fiix to ensure continuous operation. 
+
+## Custom Reports in Real-Time
+Display dashboards and looks on your shop floor or office area without the worry of timeouts and sessions expiring.
+![alt text](https://fiixpowertools.azurewebsites.net/Images/Looker-AssetsOffline.png "Sample Dashboard")
+
+## Carousel Through Dashboards
+This simple app maintains an active connection to your Fiix tenant and automatically cycles through the dashboards you define. Display duration and the number of dashboards are fully customizable to suit your needs.
+![alt text](https://fiixpowertools.azurewebsites.net/Images/Looker-MeanTimeDashboard.png "Sample Screen")
+
+## Configuration
+Just drop your dashboard URLs and tenant info into a plain text file—simple JSON, and you're set.
+![alt text](https://fiixpowertools.azurewebsites.net/Images/Config.png "Sample Screen")
 
 # Config
 
