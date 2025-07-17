@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiixLineView": {
+      "commandName": "Project",
+      "commandLineArgs": "FiixIs#1"
+    }
+  }
+}
